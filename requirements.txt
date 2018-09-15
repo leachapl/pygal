@@ -29,7 +29,6 @@ MarkupSafe==1.0
 mccabe==0.6.1
 oauth2client==4.1.2
 psycopg2==2.7.5
-ptvsd==4.1.1+3.g425291e
 pyasn1==0.4.3
 pyasn1-modules==0.2.2
 pygal==2.4.0

@@ -2,7 +2,7 @@ astroid==2.0.1
 awscli==1.15.61
 botocore==1.10.60
 cachetools==2.1.0
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 -e git+https://github.com/leachapl/pygal.git@fa045b99b0c43379ff5a0c7145ab82583ef4d239#egg=charts
 click==6.7
